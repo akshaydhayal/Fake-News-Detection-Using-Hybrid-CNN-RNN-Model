@@ -1,0 +1,10 @@
+Download the dataset from the given link:
+https://drive.google.com/file/d/1LOD0uIrZQ_HMOmKZAtjIDIEyjyI64Y2B/view?usp=sharing
+
+or web link: 
+https://www.kaggle.com/c/fake-news/data?select=submit.csv
+
+
+Download the glove file from given link:
+http://nlp.stanford.edu/data/glove.6B.zip
+
